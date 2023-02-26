@@ -1,0 +1,2 @@
+# stupid-git
+Git practice
